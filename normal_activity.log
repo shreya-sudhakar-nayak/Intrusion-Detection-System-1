@@ -1,0 +1,50 @@
+2024-07-09 15:04:17 WARNING Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:04:19 ALERT User login: user123 from IP 192.168.1.10
+2024-07-09 15:04:28 ALERT Unauthorized access to /etc/passwd
+2024-07-09 15:04:31 INFO User logout: user123
+2024-07-09 15:04:39 WARNING User login: user123 from IP 192.168.1.10
+2024-07-09 15:04:40 CRITICAL Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:04:46 CRITICAL Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:04:50 INFO File accessed: /home/user123/document.txt
+2024-07-09 15:04:56 CRITICAL User logout: user123
+2024-07-09 15:05:06 CRITICAL Unauthorized access to /etc/passwd
+2024-07-09 15:05:15 INFO Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:05:17 WARNING Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:05:19 INFO Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:05:28 INFO User login: user123 from IP 192.168.1.10
+2024-07-09 15:05:38 CRITICAL Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:05:42 CRITICAL Unauthorized access to /etc/passwd
+2024-07-09 15:05:51 INFO Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:05:52 CRITICAL Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:05:54 WARNING Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:05:55 ALERT User logout: user123
+2024-07-09 15:05:57 WARNING Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:06:01 CRITICAL Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:06:09 WARNING Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:06:15 CRITICAL Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:06:18 ALERT File accessed: /home/user123/document.txt
+2024-07-09 15:06:19 ALERT User logout: user123
+2024-07-09 15:06:25 CRITICAL User login: user123 from IP 192.168.1.10
+2024-07-09 15:06:31 WARNING User login: user123 from IP 192.168.1.10
+2024-07-09 15:06:33 ALERT File accessed: /home/user123/document.txt
+2024-07-09 15:06:36 CRITICAL User logout: user123
+2024-07-09 15:06:44 CRITICAL File accessed: /home/user123/document.txt
+2024-07-09 15:06:50 ALERT Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:06:51 CRITICAL User login: user123 from IP 192.168.1.10
+2024-07-09 15:06:55 INFO File accessed: /home/user123/document.txt
+2024-07-09 15:07:05 INFO User login: user123 from IP 192.168.1.10
+2024-07-09 15:07:12 WARNING Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:07:20 CRITICAL Malware detected in /tmp/malicious_script.sh
+2024-07-09 15:07:22 CRITICAL Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:07:27 ALERT Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:07:36 ALERT Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:07:40 WARNING Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:07:43 CRITICAL User login: user123 from IP 192.168.1.10
+2024-07-09 15:07:51 CRITICAL File accessed: /home/user123/document.txt
+2024-07-09 15:07:52 INFO User logout: user123
+2024-07-09 15:08:01 WARNING Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:08:10 CRITICAL User logout: user123
+2024-07-09 15:08:11 INFO Multiple failed login attempts from IP 192.168.1.11
+2024-07-09 15:08:17 CRITICAL User login: user123 from IP 192.168.1.10
+2024-07-09 15:08:20 ALERT Unauthorized access to /etc/passwd
+2024-07-09 15:08:29 ALERT Unauthorized access to /etc/passwd

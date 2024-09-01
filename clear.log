@@ -1,0 +1,5 @@
+2024-07-24 10:15 INFO User logged in successfully
+2024-07-24 10:17 DEBUG Access granted to resource A
+2024-07-24 10:20 INFO User accessed folder /documents
+2024-07-24 10:22 DEBUG Resource B modified
+2024-07-24 10:25 INFO User logged out
